@@ -1,4 +1,4 @@
-Mood-Light V2.1
+Arduino Mood-Light V2.1
 ==========
 
 
